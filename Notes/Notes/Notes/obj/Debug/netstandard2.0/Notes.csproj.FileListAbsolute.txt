@@ -1,0 +1,12 @@
+/Users/kevinpatrick/OneDrive/Mac School/Notes/Notes/Notes/obj/Debug/netstandard2.0/Notes.csprojAssemblyReference.cache
+/Users/kevinpatrick/OneDrive/Mac School/Notes/Notes/Notes/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/kevinpatrick/OneDrive/Mac School/Notes/Notes/Notes/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/kevinpatrick/OneDrive/Mac School/Notes/Notes/Notes/obj/Debug/netstandard2.0/Notes.csproj.CoreCompileInputs.cache
+/Users/kevinpatrick/OneDrive/Mac School/Notes/Notes/Notes/obj/Debug/netstandard2.0/Notes.AssemblyInfoInputs.cache
+/Users/kevinpatrick/OneDrive/Mac School/Notes/Notes/Notes/obj/Debug/netstandard2.0/Notes.AssemblyInfo.cs
+/Users/kevinpatrick/OneDrive/Mac School/Notes/Notes/Notes/obj/Debug/netstandard2.0/Notes.dll
+/Users/kevinpatrick/OneDrive/Mac School/Notes/Notes/Notes/obj/Debug/netstandard2.0/Notes.pdb
+/Users/kevinpatrick/OneDrive/Mac School/Notes/Notes/Notes/bin/Debug/netstandard2.0/Notes.deps.json
+/Users/kevinpatrick/OneDrive/Mac School/Notes/Notes/Notes/bin/Debug/netstandard2.0/Notes.dll
+/Users/kevinpatrick/OneDrive/Mac School/Notes/Notes/Notes/bin/Debug/netstandard2.0/Notes.pdb
+/Users/kevinpatrick/OneDrive/Mac School/Notes/Notes/Notes/obj/Debug/netstandard2.0/XamlC.stamp

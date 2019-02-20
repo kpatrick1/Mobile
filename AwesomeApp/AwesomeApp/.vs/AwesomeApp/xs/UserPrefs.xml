@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{ABF648A5-A543-433F-A071-6C9EBB4872ED}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AwesomeApp/MainPage.xaml">
+    <Files>
+      <File FileName="AwesomeApp/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="AwesomeApp/MainPage.xaml" Line="7" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AwesomeApp.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AwesomeApp FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AwesomeApp.iOS FirstBuild="True" />
+</Properties>
