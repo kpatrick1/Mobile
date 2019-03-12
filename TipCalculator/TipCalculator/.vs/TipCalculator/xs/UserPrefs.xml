@@ -1,14 +1,14 @@
-﻿<Properties StartupConfiguration="{A1A590F0-36E8-4250-9EC9-C5E9691004FA}|Default">
+﻿<Properties StartupConfiguration="{95B7C3BF-C994-4837-A1A4-211549B7DA71}|Default">
   <MonoDevelop.Ide.ItemProperties.TipCalculator FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.TipCalculator.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TipCalculator/MainPage.xaml">
+  <MonoDevelop.Ide.ItemProperties.TipCalculator.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TipCalculator/MainPage.xaml.cs">
     <Files>
-      <File FileName="TipCalculator/MainPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="TipCalculator/MainPage.xaml" Line="7" Column="15" />
+      <File FileName="TipCalculator/MainPage.xaml.cs" Line="16" Column="9" />
+      <File FileName="TipCalculator/MainPage.xaml" Line="8" Column="23" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.TipCalculator.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.TipCalculator.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.979BCEF3-FE9D-4471-B46B-CDB5DAA27919" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
