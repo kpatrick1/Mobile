@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="PersonalityQuiz.QuizPage"
+             Title="Personality Quiz">
+    <ContentPage.Content>
+    </ContentPage.Content>
+    
+    <StackLayout>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"  />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>    
+            </Grid.ColumnDefinitions>
+            <BoxView Color="Blue"
+                     HeightRequest="250"
+                     Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" />
+            <Label Text="Question goes here"
+                   x:Name="QuestionText"
+                   HorizontalOptions="CenterAndExpand"
+                   FontSize="Large"
+                   Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" 
+                   TextColor="Blue"/>
+            
+            <Button Text="Answer1"
+                    x:Name="Answer1"
+                    Clicked="OnAnswer1Clicked"
+                    HeightRequest="200"
+                    Grid.Row="2" Grid.Column="0" />
+            <Button Text="Answer2"
+                    x:Name="Answer2"
+                    Clicked="OnAnswer2Clicked"
+                    HeightRequest="200"
+                    Grid.Row="2" Grid.Column="1" />
+            <Button Text="Answer3"
+                    x:Name="Answer3"
+                    Clicked="OnAnswer3Clicked"
+                    HeightRequest="150"
+                    Grid.Row="3" Grid.Column="0" />
+            <Button Text="Answer4"
+                    x:Name="Answer4"
+                    Clicked="OnAnswer4Clicked"
+                    HeightRequest="150"
+                    Grid.Row="3" Grid.Column="1" />
+            
+        </Grid>
+        
+        
+    </StackLayout>
+    
+    
+</ContentPage>

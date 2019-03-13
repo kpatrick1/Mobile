@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{9C1476A5-1BA4-46D3-A029-ED152F00E10C}|Default">
+  <MonoDevelop.Ide.ItemProperties.PersonalityQuiz.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.979BCEF3-FE9D-4471-B46B-CDB5DAA27919" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PersonalityQuiz.iOS/Main.cs">
+    <Files>
+      <File FileName="PersonalityQuiz/MainPage.xaml.cs" Line="19" Column="56" />
+      <File FileName="PersonalityQuiz/Quiz.xaml.cs" Line="17" Column="10" />
+      <File FileName="PersonalityQuiz/QuizPage.xaml" Line="25" Column="40" />
+      <File FileName="PersonalityQuiz/QuizPage.xaml.cs" Line="44" Column="24" />
+      <File FileName="PersonalityQuiz/Model/Question.cs" Line="19" Column="1" />
+      <File FileName="PersonalityQuiz/Model/Questions.cs" Line="14" Column="211" />
+      <File FileName="PersonalityQuiz/MainPage.xaml" Line="13" Column="15" />
+      <File FileName="PersonalityQuiz.iOS/Main.cs" Line="21" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PersonalityQuiz.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PersonalityQuiz FirstBuild="True" />
+</Properties>
