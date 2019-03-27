@@ -80,9 +80,6 @@ namespace PersonalityQuiz
                 QuestionText.Text = "You Are " + idx.ToString();
 
             }
-
-
-
         }
     }
 }
