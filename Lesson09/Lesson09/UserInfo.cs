@@ -3,8 +3,8 @@ namespace Lesson09
 {
     public class UserInfo
     {
-        public UserInfo()
-        {
-        }
+
+        public string UserName { get; set; }
+
     }
 }

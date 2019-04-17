@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{1902913C-BB6F-4CCB-9B90-1D0CAEECAF12}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Todo/Views/TodoListPage.xaml.cs">
+    <Files>
+      <File FileName="Todo/Models/TodoItem.cs" Line="11" Column="33" />
+      <File FileName="Todo/Data/TodoItemDatabase.cs" Line="23" Column="53" />
+      <File FileName="Todo/Views/TodoItemPage.xaml" Line="10" Column="34" />
+      <File FileName="Todo/Views/TodoListPage.xaml" Line="17" Column="48" />
+      <File FileName="Todo/Views/TodoListPage.xaml.cs" Line="51" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Targets.Todo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.979BCEF3-FE9D-4471-B46B-CDB5DAA27919" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

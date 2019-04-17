@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{139F3217-EE09-41DD-B1BD-BC184F53BD43}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lesson09.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.ItemProperties.Lesson09.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.979BCEF3-FE9D-4471-B46B-CDB5DAA27919" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson09/MainPage.xaml.cs">
+    <Files>
+      <File FileName="Lesson09/MainPage.xaml.cs" Line="20" Column="50" />
+      <File FileName="Lesson09/NavPage.xaml.cs" Line="29" Column="50" />
+      <File FileName="Lesson09/App.xaml.cs" Line="36" Column="9" />
+      <File FileName="Lesson09/Results.xaml.cs" Line="22" Column="44" />
+      <File FileName="Lesson09/Results.xaml" Line="20" Column="1" />
+      <File FileName="Lesson09.iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="Lesson09/UserInfo.cs" Line="9" Column="6" />
+      <File FileName="Lesson09/App.xaml" Line="5" Column="15" />
+      <File FileName="Lesson09/MainPage.xaml" Line="25" Column="17" />
+      <File FileName="Lesson09/NavPage.xaml" Line="25" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lesson09 FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kevinpatrick/OneDrive/Mac School/Lesson09/Lesson09/Results.xaml.cs" relfile="Lesson09/Results.xaml.cs" line="22" column="44" />
+      <Breakpoint file="/Users/kevinpatrick/OneDrive/Mac School/Lesson09/Lesson09/Results.xaml.cs" relfile="Lesson09/Results.xaml.cs" line="28" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

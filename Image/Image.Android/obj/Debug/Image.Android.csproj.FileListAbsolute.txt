@@ -34,6 +34,7 @@
 /Users/kevinpatrick/OneDrive/Mac School/Image/Image.Android/obj/Debug/R.cs.flag
 /Users/kevinpatrick/OneDrive/Mac School/Image/Image.Android/obj/Debug/R.txt
 /Users/kevinpatrick/OneDrive/Mac School/Image/Image.Android/obj/Debug/uploadflags.txt
+/Users/kevinpatrick/OneDrive/Mac School/Image/Image.Android/obj/Debug/res/drawable/flashcards.png
 /Users/kevinpatrick/OneDrive/Mac School/Image/Image.Android/bin/Debug/Mono.Android.pdb
 /Users/kevinpatrick/OneDrive/Mac School/Image/Image.Android/bin/Debug/Xamarin.Forms.Core.pdb
 /Users/kevinpatrick/OneDrive/Mac School/Image/Image.Android/bin/Debug/Xamarin.Forms.Xaml.pdb

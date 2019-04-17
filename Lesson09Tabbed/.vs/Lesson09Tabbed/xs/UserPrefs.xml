@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{838AFC16-31A0-4C09-A7BB-287D17E40490}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lesson09Tabbed FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson09Tabbed/Views/MainPage.xaml.cs">
+    <Files>
+      <File FileName="Lesson09Tabbed/Views/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Lesson09Tabbed/Views/MainPage.xaml" Line="25" Column="14" />
+      <File FileName="Lesson09Tabbed/Views/NewItemPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Lesson09Tabbed/Views/ItemsPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Lesson09Tabbed/Views/AboutPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Lesson09Tabbed/Views/AboutPage.xaml" Line="68" Column="15" />
+      <File FileName="Lesson09Tabbed/Views/ItemsPage.xaml" Line="28" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lesson09Tabbed.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.979BCEF3-FE9D-4471-B46B-CDB5DAA27919" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Lesson09Tabbed.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+</Properties>

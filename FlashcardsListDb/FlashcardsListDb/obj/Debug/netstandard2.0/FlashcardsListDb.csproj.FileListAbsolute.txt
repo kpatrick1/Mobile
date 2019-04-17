@@ -1,0 +1,12 @@
+/Users/kevinpatrick/OneDrive/Mac School/FlashcardsListDb/FlashcardsListDb/obj/Debug/netstandard2.0/FlashcardsListDb.csprojAssemblyReference.cache
+/Users/kevinpatrick/OneDrive/Mac School/FlashcardsListDb/FlashcardsListDb/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/kevinpatrick/OneDrive/Mac School/FlashcardsListDb/FlashcardsListDb/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/kevinpatrick/OneDrive/Mac School/FlashcardsListDb/FlashcardsListDb/obj/Debug/netstandard2.0/FlashcardsListDb.csproj.CoreCompileInputs.cache
+/Users/kevinpatrick/OneDrive/Mac School/FlashcardsListDb/FlashcardsListDb/obj/Debug/netstandard2.0/FlashcardsListDb.AssemblyInfoInputs.cache
+/Users/kevinpatrick/OneDrive/Mac School/FlashcardsListDb/FlashcardsListDb/obj/Debug/netstandard2.0/FlashcardsListDb.AssemblyInfo.cs
+/Users/kevinpatrick/OneDrive/Mac School/FlashcardsListDb/FlashcardsListDb/obj/Debug/netstandard2.0/FlashcardsListDb.dll
+/Users/kevinpatrick/OneDrive/Mac School/FlashcardsListDb/FlashcardsListDb/obj/Debug/netstandard2.0/FlashcardsListDb.pdb
+/Users/kevinpatrick/OneDrive/Mac School/FlashcardsListDb/FlashcardsListDb/bin/Debug/netstandard2.0/FlashcardsListDb.deps.json
+/Users/kevinpatrick/OneDrive/Mac School/FlashcardsListDb/FlashcardsListDb/bin/Debug/netstandard2.0/FlashcardsListDb.dll
+/Users/kevinpatrick/OneDrive/Mac School/FlashcardsListDb/FlashcardsListDb/bin/Debug/netstandard2.0/FlashcardsListDb.pdb
+/Users/kevinpatrick/OneDrive/Mac School/FlashcardsListDb/FlashcardsListDb/obj/Debug/netstandard2.0/XamlC.stamp

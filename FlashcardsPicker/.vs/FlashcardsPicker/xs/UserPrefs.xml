@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{28DF1DBE-7B12-46E3-973D-6F64FA5C6E38}|Default">
+  <MonoDevelop.Ide.ItemProperties.FlashcardsPicker.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FlashcardsPicker/MainPage.xaml.cs">
+    <Files>
+      <File FileName="FlashcardsPicker/MainPage.xaml.cs" Line="29" Column="26" />
+      <File FileName="FlashcardsPicker/MainPage.xaml" Line="13" Column="54" />
+      <File FileName="FlashcardsPicker/Card.cs" Line="2" Column="27" />
+      <File FileName="FlashcardsPicker/CardList.cs" Line="4" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.FlashcardsPicker.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.979BCEF3-FE9D-4471-B46B-CDB5DAA27919" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FlashcardsPicker FirstBuild="True" />
+</Properties>

@@ -1,0 +1,10 @@
+/Users/kevinpatrick/OneDrive/Mac School/FlashcardsPicker/FlashcardsPicker.Android/obj/Debug/FlashcardsPicker.Android.nuget.stamp
+/Users/kevinpatrick/OneDrive/Mac School/FlashcardsPicker/FlashcardsPicker.Android/obj/Debug/MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+/Users/kevinpatrick/OneDrive/Mac School/FlashcardsPicker/FlashcardsPicker.Android/obj/Debug/FlashcardsPicker.Android.csprojAssemblyReference.cache
+/Users/kevinpatrick/OneDrive/Mac School/FlashcardsPicker/FlashcardsPicker.Android/obj/Debug/libraryimports.cache.stamp
+/Users/kevinpatrick/OneDrive/Mac School/FlashcardsPicker/FlashcardsPicker.Android/obj/Debug/res.flag
+/Users/kevinpatrick/OneDrive/Mac School/FlashcardsPicker/FlashcardsPicker.Android/obj/Debug/App.xaml.g.cs
+/Users/kevinpatrick/OneDrive/Mac School/FlashcardsPicker/FlashcardsPicker.Android/obj/Debug/MainPage.xaml.g.cs
+/Users/kevinpatrick/OneDrive/Mac School/FlashcardsPicker/FlashcardsPicker.Android/obj/Debug/FlashcardsPicker.Android.csproj.CoreCompileInputs.cache
+/Users/kevinpatrick/OneDrive/Mac School/FlashcardsPicker/FlashcardsPicker.Android/obj/Debug/FlashcardsPicker.Android.dll
+/Users/kevinpatrick/OneDrive/Mac School/FlashcardsPicker/FlashcardsPicker.Android/obj/Debug/FlashcardsPicker.Android.pdb

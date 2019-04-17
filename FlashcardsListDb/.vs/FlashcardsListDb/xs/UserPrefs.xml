@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{1CC2EB5A-0E86-483F-8690-E3AFDC5DB728}|Default">
+  <MonoDevelop.Ide.ItemProperties.FlashcardsListDb.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.979BCEF3-FE9D-4471-B46B-CDB5DAA27919" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FlashcardsListDb/Model/QuestionDb.cs">
+    <Files>
+      <File FileName="FlashcardsListDb/MainPage.xaml.cs" Line="25" Column="15" />
+      <File FileName="FlashcardsListDb/MainPage.xaml" Line="6" Column="37" />
+      <File FileName="FlashcardsListDb/Model/Card.cs" Line="11" Column="6" />
+      <File FileName="FlashcardsListDb/App.xaml.cs" Line="18" Column="39" />
+      <File FileName="FlashcardsListDb/Model/QuestionDb.cs" Line="22" Column="18" />
+      <File FileName="FlashcardsListDb.iOS/Main.cs" Line="15" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.FlashcardsListDb.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

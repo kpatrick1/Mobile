@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:FlashcardsPicker" 
+             x:Class="FlashcardsPicker.MainPage">
+    <StackLayout Margin="20,35,20,20">
+        <Label Text="Picker - Data in Items Collection" 
+               FontAttributes="Bold" 
+               HorizontalOptions="Center" />
+        <Picker Title="Select a Question"
+                x:Name="cbopicker"
+                SelectedIndexChanged="OnPickerSelectedIndexChanged"
+                ItemDisplayBinding="{Binding Question}">
+           
+        </Picker>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="You chose:" />
+            <Label x:Name="Answer" />
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

@@ -41,12 +41,6 @@
 /Users/kevinpatrick/OneDrive/Mac School/Image/Image.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
 /Users/kevinpatrick/OneDrive/Mac School/Image/Image.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
 /Users/kevinpatrick/OneDrive/Mac School/Image/Image.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
-/Users/kevinpatrick/OneDrive/Mac School/Image/Image.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/ibtool/_BundleResourceWithLogicalName.items
-/Users/kevinpatrick/OneDrive/Mac School/Image/Image.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/_PartialAppManifest.items
-/Users/kevinpatrick/OneDrive/Mac School/Image/Image.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/_BundleResourceWithLogicalName.items
-/Users/kevinpatrick/OneDrive/Mac School/Image/Image.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/coremlc/_PartialAppManifest.items
-/Users/kevinpatrick/OneDrive/Mac School/Image/Image.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/coremlc/_BundleResourceWithLogicalName.items
-/Users/kevinpatrick/OneDrive/Mac School/Image/Image.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/
 /Users/kevinpatrick/OneDrive/Mac School/Image/Image.iOS/obj/iPhoneSimulator/Debug/Image.iOS.csprojAssemblyReference.cache
 /Users/kevinpatrick/OneDrive/Mac School/Image/Image.iOS/obj/iPhoneSimulator/Debug/App.xaml.g.cs
 /Users/kevinpatrick/OneDrive/Mac School/Image/Image.iOS/obj/iPhoneSimulator/Debug/MainPage.xaml.g.cs
@@ -55,3 +49,9 @@
 /Users/kevinpatrick/OneDrive/Mac School/Image/Image.iOS/obj/iPhoneSimulator/Debug/Image.iOS.csproj.CopyComplete
 /Users/kevinpatrick/OneDrive/Mac School/Image/Image.iOS/obj/iPhoneSimulator/Debug/Image.iOS.exe
 /Users/kevinpatrick/OneDrive/Mac School/Image/Image.iOS/obj/iPhoneSimulator/Debug/Image.iOS.pdb
+/Users/kevinpatrick/OneDrive/Mac School/Image/Image.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/kevinpatrick/OneDrive/Mac School/Image/Image.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/_PartialAppManifest.items
+/Users/kevinpatrick/OneDrive/Mac School/Image/Image.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/_BundleResourceWithLogicalName.items
+/Users/kevinpatrick/OneDrive/Mac School/Image/Image.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/coremlc/_PartialAppManifest.items
+/Users/kevinpatrick/OneDrive/Mac School/Image/Image.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/coremlc/_BundleResourceWithLogicalName.items
+/Users/kevinpatrick/OneDrive/Mac School/Image/Image.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/

@@ -6,13 +6,17 @@
         <StackLayout.GestureRecognizers>
             <SwipeGestureRecognizer Direction="Left" Swiped="OnSwiped"/>
             <SwipeGestureRecognizer Direction="Right" Swiped="OnSwiped"/>
-            <SwipeGestureRecognizer Direction="Up" Swiped="OnSwiped"/>
-            <SwipeGestureRecognizer Direction="Down" Swiped="OnSwiped"/>
+            
         </StackLayout.GestureRecognizers>
-            <Image Source="mario"
-           HorizontalOptions="Center" />
+            <Image Source="flashcards"
+           HorizontalOptions="Center" Margin="100" WidthRequest="300" />
             <Label x:Name="Label1"  
-                Text="Welcome to flashcards! You will be prompted with a question.  Swipe left for True or Right for False.  Swipe up to begin!"/>
-        
+                Text="Welcome to flashcards! You will be prompted with a question.  Swipe left for True or Right for False."
+                   HorizontalTextAlignment="Center" FontSize="Large"/>
+            <Button Text="Begin Flashcards!"
+                    x:Name="btnStart"
+                VerticalOptions="CenterAndExpand"
+                HorizontalOptions="Center"
+                Clicked="OnButtonClicked" />
     </StackLayout>
 </ContentPage>
